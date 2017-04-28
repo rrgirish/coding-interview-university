@@ -1,38 +1,5 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer, 
-> but it grew to the large list you see today. After going through this study plan, [I got hired 
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> The items listed here will prepare you well for in an interview at just about any software company, 
-> including the giants: Amazon, Facebook, Google or Microsoft.
->
-> *Best of luck to you!*
-
-Translations:
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vn.md)
-- translations in progress:
-    - [Español](https://github.com/jwasham/coding-interview-university/issues/80)
-    - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-    - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-    - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
-    - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-    - [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-    - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-    - [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-    - [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-    - [Brazilian Portuguese](https://github.com/jwasham/coding-interview-university/issues/113)
-    - [Korean](https://github.com/jwasham/coding-interview-university/issues/118)
-    - [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-    - [Polish](https://github.com/jwasham/coding-interview-university/issues/122)
-    - [German](https://github.com/jwasham/coding-interview-university/issues/135)
-    - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
-    - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-    - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-    - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
@@ -52,8 +19,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
@@ -169,17 +134,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ---
 
-## Why use it?
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
 ## How to use it
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
@@ -225,14 +179,14 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
+- [x] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
@@ -279,7 +233,6 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 If you have tons of extra time:
 
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
 
 ### Computer Architecture
@@ -314,14 +267,6 @@ If you read though one of these, you should have all the data structures and alg
 
 [Additional language-specific resources here.](programming-language-resources.md)
 
-### C++
-
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
 ### Java
 
@@ -382,9 +327,6 @@ OR:
     - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
       that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
 
-- ~~"Algorithms and Programming: Problems and Solutions" by Shen~~
-    - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
-    - Would rather spend time on coding problems from another book or online coding problems.
 
 
 ## Before you Get Started
